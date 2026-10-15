@@ -8,7 +8,7 @@ I am a data analyst and an economists working and building insightful projects f
 - Power BI
 
   ## My Projects
-  [Meridian health clinic analysis] (....)
+  [Meridian health clinic analysis] (https://github.com/vhickeey-vee/Meridian-healthcare-clinics-performance-analysis)
 
   ## Let's Connect!
   [Linkedln]
