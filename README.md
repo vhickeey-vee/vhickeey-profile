@@ -12,3 +12,5 @@ I'm a data analyst and an economists working and building insightful projects fo
 
   ## Let's Connect!
   [Linkedln] (https://www.linkedin.com/in/akpokiniovo-victory/)
+  
+  [Medium] (https://medium.com/@vi3tory3663)
