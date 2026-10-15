@@ -11,4 +11,4 @@ I am a data analyst and an economists working and building insightful projects f
   [Meridian health clinic analysis] (https://github.com/vhickeey-vee/Meridian-healthcare-clinics-performance-analysis)
 
   ## Let's Connect!
-  [Linkedln]
+  [Linkedln] (https://www.linkedin.com/in/akpokiniovo-victory/)
